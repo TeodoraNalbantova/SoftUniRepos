@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhT8nZvlj/Wa00DkDKqJd6tW0cLyS72bGW+HgPTn+foGAsK1i5gal35SGyBMbyaWHiZ99GvxOnkonKEGi44nZw==",
+  "success": true,
+  "projectFilePath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\SoftUniRepos\\RestSharpDemo\\RestSharpDemo\\RestSharpDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
