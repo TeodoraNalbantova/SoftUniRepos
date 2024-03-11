@@ -2014,11 +2014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\Person-Register\\Person-Register\\PersonRegister.csproj",
+      "projectUniqueName": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\SoftUniRepos\\Person-Register\\Person-Register\\PersonRegister.csproj",
       "projectName": "PersonRegister",
-      "projectPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\Person-Register\\Person-Register\\PersonRegister.csproj",
+      "projectPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\SoftUniRepos\\Person-Register\\Person-Register\\PersonRegister.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\Person-Register\\Person-Register\\obj\\",
+      "outputPath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\SoftUniRepos\\Person-Register\\Person-Register\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

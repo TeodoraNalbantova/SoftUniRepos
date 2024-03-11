@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Person_Register
-build_property.ProjectDir = D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\SOFTUNI-REPOS\Person-Register\Person-Register\
+build_property.ProjectDir = D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\SOFTUNI-REPOS\SoftUniRepos\Person-Register\Person-Register\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

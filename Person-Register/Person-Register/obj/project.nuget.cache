@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cxfDHMshTGUBjWbC+zol+nO5XA+XG6UpZ1cEj0xwXIsMx7DJGz+/rsbojQaN8GvMLF+ESS077SdNe2mJNO9ZRQ==",
+  "dgSpecHash": "+J7TW6jHQg0lv19A6jpgSZ8TddOVV896SLnQcmyUpRs6oRZb1y66g2PnTjj1aFTyc91UxH5aAxqJiWZmVZW7kg==",
   "success": true,
-  "projectFilePath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\Person-Register\\Person-Register\\PersonRegister.csproj",
+  "projectFilePath": "D:\\НЕЩАТА НА ТЕДИ\\SOFT UNI\\QA\\SOFTUNI-REPOS\\SoftUniRepos\\Person-Register\\Person-Register\\PersonRegister.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
